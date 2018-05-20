@@ -197,7 +197,7 @@
             }
         },
         "mailgun": {
-            "key": "key-f90e106fb7f92e32848d39701d950676",
+            "key": "key-fBLAH",
             "domain": "mg.vpnsolid.me"
         }
     },
@@ -205,7 +205,7 @@
     "telegram": {
         "enabled": true,
 		"botName": "AlloyCryptoBot",
-        "token": "453871640:AAEpIkNdV_UTTSH3O0WgGkwGt3fw0iTjsFo",
+        "token": "453871640:BLAH",
         "channel": "AlloyCryptonightMining",
         "channelStats": {
             "enabled": true,
