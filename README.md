@@ -705,7 +705,7 @@ curl 127.0.0.1:18081/json_rpc -d '{"method":"getblockheaderbyheight","params":{"
 Donations
 ---------
 
-Thanks for supporting my works on this project! If you want to make a donation to [Daniel Vandal](https://github.com/dvandal/), the developper of this project, you can send any amount of your choice to one of theses addresses:
+You can send any amount of your choice to this address:
 
 * Alloy (XAO): `A4XhHr1vRn44nzgtq6vfUjMtvUkHVk4fp4LW9oAUpCTPSPVgpjpDT9EdZUsKUaRzXj4qL4J1fEwCc4K3VLfhJvBuEXXxch7`
 
