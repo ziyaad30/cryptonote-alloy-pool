@@ -13,7 +13,7 @@
         "bignum": "*",
         "cli-color": "*",
         "cryptoforknote-util": "git://github.com/MoneroOcean/node-cryptoforknote-util.git",
-		"multi-hashing": "git://github.com/alloyproject/multi-hashing-alloy.git",
+	"multi-hashing": "git://github.com/alloyproject/multi-hashing-alloy.git",
         "cryptonote-util": "git://github.com/alloyproject/cryptonote-util.git",
         "dateformat": "*",
         "mailgun.js": "*",
