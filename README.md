@@ -40,7 +40,7 @@ Features
 * Miner login (wallet address) validation
 * Workers identification (specify worker name as the password)
 * Variable difficulty / share limiter
-* Set fixed difficulty on miner client by passing "address" param with "+[difficulty]" postfix
+* Set fixed difficulty on miner client by passing "address" param with ".[difficulty]" postfix
 * Modular components for horizontal scaling (pool server, database, stats/API, payment processing, front-end)
 * SSL support for both pool and API servers
 * RBPPS (PROP) payment system
@@ -67,7 +67,7 @@ Features
 * Prevent "transaction is too big" error with "payments.maxTransactionAmount" option
 * Option to enable dynamic transfer fee based on number of payees per transaction and option to have miner pay transfer fee instead of pool owner (applied to dynamic fee only)
 * Control transactions priority with config.payments.priority (default: 0).
-* Set payment ID on miner client when using "[address].[paymentID]" login
+* Set payment ID on miner client when using "[address]+[paymentID]" login
 * Integrated payment ID addresses support for Exchanges
 
 #### Admin panel
