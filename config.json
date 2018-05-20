@@ -117,7 +117,7 @@
         "port": 8117,
         "blocks": 30,
         "payments": 30,
-        "password": "salmaawaseem786",
+        "password": "123456789",
         "ssl": false,
         "sslPort": 8119,
         "sslCert": "./cert.pem",
